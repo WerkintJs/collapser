@@ -1,0 +1,21 @@
+{
+  "name": "collapser",
+  "version": "0.0.0",
+  "authors": [
+    "Самойлов Константин <krumper92@gmail.com>"
+  ],
+  "main": [
+    "jquery.collapser.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
